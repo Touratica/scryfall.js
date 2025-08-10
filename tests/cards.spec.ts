@@ -1,4 +1,4 @@
-import { beforeEach, describe, expect, it, jest } from "@jest/globals";
+import { beforeEach, describe, expect, it } from "@jest/globals";
 import axios from "axios";
 import MockAdapter from "axios-mock-adapter";
 import { getRandomCard } from "~/cards";
